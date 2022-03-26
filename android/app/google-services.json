@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900251673686",
+    "project_id": "chat-project-3e9c8",
+    "storage_bucket": "chat-project-3e9c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900251673686:android:fd622336bd6a051fe407f7",
+        "android_client_info": {
+          "package_name": "com.saktepe.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900251673686-hqujg3n5prd273snkined1dojra69nvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVw-Muf7S88DXsp4C-ZbQbm_67s_idDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900251673686-hqujg3n5prd273snkined1dojra69nvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
